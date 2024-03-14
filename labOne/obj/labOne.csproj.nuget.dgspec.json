@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bskedgell/Projects/labOne/labOne/labOne.csproj": {}
+    "/Users/bskedgell/Projects/labOne/Claim-Academy-V2/labOne/labOne.csproj": {}
   },
   "projects": {
-    "/Users/bskedgell/Projects/labOne/labOne/labOne.csproj": {
+    "/Users/bskedgell/Projects/labOne/Claim-Academy-V2/labOne/labOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bskedgell/Projects/labOne/labOne/labOne.csproj",
+        "projectUniqueName": "/Users/bskedgell/Projects/labOne/Claim-Academy-V2/labOne/labOne.csproj",
         "projectName": "labOne",
-        "projectPath": "/Users/bskedgell/Projects/labOne/labOne/labOne.csproj",
+        "projectPath": "/Users/bskedgell/Projects/labOne/Claim-Academy-V2/labOne/labOne.csproj",
         "packagesPath": "/Users/bskedgell/.nuget/packages/",
-        "outputPath": "/Users/bskedgell/Projects/labOne/labOne/obj/",
+        "outputPath": "/Users/bskedgell/Projects/labOne/Claim-Academy-V2/labOne/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bskedgell/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
         }
       }
     }
